@@ -1,6 +1,6 @@
 # Scene 3: Tickle Tomb by LinuxDino
 
-Check out the demo here: 
+Check out the demo here: https://linuxdinogithub.github.io/som-scene3/
 
 This scene is a part of the large scale project of summer of making grand survey expenditure. A dynamic HTML/CSS/JS page revloving around a setting of a graveyard.
 
